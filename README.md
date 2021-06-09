@@ -21,7 +21,7 @@ ADMIN_PASSWORD=admin
 ### Clone this repository on your Docker host, cd into test directory and run compose up:
 
 ```
-git clone https://github.com/Einsteinish/Docker-Compose-Prometheus-and-Grafana.git
+git clone https://github.com/wilfrcom/Docker-Compose-Prometheus-and-Grafana.git
 cd Docker-Compose-Prometheus-and-Grafana
 docker-compose up -d
 ```
